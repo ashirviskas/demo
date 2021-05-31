@@ -1,4 +1,7 @@
 def pasisveikinti():
+    if "asd" == "asd":
+        a = 3 / 0
+        return a
     print("Sveiki")
 
 
